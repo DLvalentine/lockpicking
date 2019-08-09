@@ -1,7 +1,7 @@
 *********
 
 
-##Earn Lockpicking Karate Flair
+## Earn Lockpicking Karate Flair
 
 As a way to have fun (perhaps at the expense of Six Sigma) this sub gives its members the opportunity to earn user flair in the form of karate belts. Belt flair is issued based on the accomplishments of the member, with each higher level requiring increased community participation and the picking of increasingly difficult locks.
 
@@ -11,7 +11,7 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
 
 ***********************************
 
-###FAQ
+### FAQ
 
 * Question: Must I begin at "White Belt Picker" and progress through the ranks, or can I skip directly to the belt that is appropriate for me?
  * Answer: You can skip directly to the belt that is appropriate for you. Just compile a list of your accomplishments in accordance with the guidelines and request to be issued the belt you are going for.
@@ -40,7 +40,7 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
 ***********************************
 
 
-###General Rules
+### General Rules
 
 - When making your belt request, please add the model of your lock into the request (if you know what it is.)  There are hundreds of different models of lock commonly used around the world, and the mods are not immediately familiar with every single lock.
 
@@ -70,7 +70,7 @@ Remember this is all just for fun... In the end, no matter what karate belt you 
 
 ***********************************
 
-###Challenge Lock Requirements
+### Challenge Lock Requirements
 
 Blue Belt Picker and higher require that you have custom pinned a "Challenge Lock" and shared it with another picker. Preferably this lock will make it into circulation and introduce you to the fun of exchanging locks designed not for security but specifically to defeat picking.  
 If for some reason you are unable to fully engage with the larger community of exchange we still encourage you to gain the more in-depth knowledge of how locks function that comes from building your own.  [Speak to a moderator](https://www.reddit.com/message/compose?to=%2Fr%2Flockpicking) about possible alternatives to the challenge lock requirement. Having no interest in building a challenge lock is not grounds for an exception.
@@ -97,7 +97,7 @@ Stipulations:
 
 ***********************************
 
-###SFIC Filming Requirements
+### SFIC Filming Requirements
 
 SFIC (Small Format Interchangeable Core) locks can be gutted, but require expensive tools to do so.  Normally, we require any lock that can be gutted, to be gutted in order to be eligible for belt rank, but due to the difficult and expensive, but not impossible to gut nature of the SFIC locks, we've come up with a procedure to show the lock hasn't been modified without gutting the lock.
 
@@ -116,7 +116,7 @@ You may pick the lock before showing the lock verification steps above, but the 
 
 ***********************************
 
-###Locks Scheduled for Reclassification
+### Locks Scheduled for Reclassification
 
 From time to time we may change the rankings of certain locks.  These changes may be due to refined or new picking techniques making locks that were once difficult to pick, less so, or simply because we've decided they were improperly ranked in the first place.  
 
@@ -126,17 +126,17 @@ If a lock moves down a rank (e.g. from orange belt to yellow belt) and you've al
 
 ***********************************
 
-###Current Belt Rankings List
+### Current Belt Rankings List
 
 Lock not on the list? No problem. The Wiki covers 90% of locks that most people here will pick, however, there are hundreds more locks that have been classified that are not on the wiki. If every classified lock was listed on the wiki, it would be a mile long, so there is now a spreadsheet with more comprehensive and up to date classifications.
 
-####[Click Here!] (https://docs.google.com/spreadsheets/d/1JvskJMIl55mVVh53jgaWDFmwJz-KvHDWXVmvYsINB2g/edit?usp=sharing)
+#### [Click Here!] (https://docs.google.com/spreadsheets/d/1JvskJMIl55mVVh53jgaWDFmwJz-KvHDWXVmvYsINB2g/edit?usp=sharing)
 
 
 
-###Rankings
+### Rankings
 
-####White Belt
+#### White Belt
 ![](%%white%%)
 
 This is the beginning of your journey of self-discovery that will test the limits of your mind, body, and spirit. Your belt is white because you are like freshly fallen snow, pure, true of heart and ready to be molded into a lockpicking machine.
@@ -165,7 +165,7 @@ Here are some examples of locks that would qualify for white belt:
 
 *************************************
 
-####Yellow Belt
+#### Yellow Belt
 ![](%%yellow%%)
 
 You understand the basic function of locks, and technique to pick them. Normal padlocks crumble at your very glance and you've moved onto higher quality cylinders, some of which may even contain security pins.
@@ -240,7 +240,7 @@ Requirements:
 
 *************************************
 
-####Orange Belt
+#### Orange Belt
 ![](%%orange%%)
 
 Those security pins designed to keep you out are powerless against you. You're starting to find locks containing them easier to pick than those without. Your family is also starting to look at you and your growing collection of locks a bit strangely. It’s OK -- we understand you. Let's get an orange belt on you to confuse them further.
@@ -326,7 +326,7 @@ Requirements:
 
 *************************************
 
-####Green Belt
+#### Green Belt
 ![](%%green%%)
 
 Higher quality locks with even more security pins. Some of these locks have dead cores, and it’s not just because you've picked them to death. It might also be that you have started down the dimple lock road. You've also started your development as a lock surgeon, gutting them and getting them back together again.
@@ -411,7 +411,7 @@ Requirements:
 
 *************************************
 
-####Blue Belt
+#### Blue Belt
 ![](%%blue%%)
 
 Transitionary phase in your mastery. You are leaving the relative calm and predictable world of standard locks behind and dipping a toe into the strange and bizarre world of high-security locks. You are frequently pinning your own locks, making challenge locks, and helping newer members of the lockpicking community as they progress.
@@ -463,7 +463,7 @@ Requirements:
 
 *************************************
 
-####Purple Belt
+#### Purple Belt
 ![](%%purple%%)
 
 You are now picking locks that are categorically hi-sec. They have two or more discrete locking mechanisms and are considered unpickable by nearly every locksmith on the planet. You are helping new pickers frequently and sharing challenge locks.
@@ -511,7 +511,7 @@ If picking a Best SFIC, be sure to review the guidelines listed under [SFIC Film
 
 *************************************
 
-####Brown Belt
+#### Brown Belt
 ![](%%brown%%)
 
 You are entering the realm of ultra high-security locks and becoming a pillar of the lockpicking community. You find yourself picking locks that are so difficult tools sometimes don’t even exist to open them, requiring you make your own. Tight keyways, rotating sidebar fingers, telescoping keypins, and countermilling are the norm for you.
@@ -551,7 +551,7 @@ Requirements:
 
 *************************************
 
-####Red Belt
+#### Red Belt
 ![](%%red%%)
 
 Ultra high security is your middle name. Your lock collection is worth more than your first car and you constantly troll eBay for deals on insane European locks. You are frequently making custom tools to pick difficult locks, and you are acting as a mentor to folks at the blue, purple and brown belt levels.
@@ -617,7 +617,7 @@ Requirements:
 
 *************************************
 
-####Black Belt
+#### Black Belt
 ![](%%black%%)
 
 
